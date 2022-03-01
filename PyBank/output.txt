@@ -1,0 +1,5 @@
+The total number of months used for in the Dataset is 86
+The net total amount of Profit/Losses over the entire period 38,382,578
+The average of the changes in Profit/Losses over the entire period -2,315.12
+The greatest increase in profits over the entire period (Feb-2012) 1,926,159
+The greatest decrease in losses over the entire period (Sep-2013) -2,196,167
