@@ -61,44 +61,4 @@ row_count = 0
 
 
 
-    # @TODO: For every row in our sales data, loop over the menu records to determine a match
-
-
-        # Item,Category,Description,Price,Cost
-        # @TODO: Initialize menu data variables
-
-
-
-
-        # @TODO: Calculate profit of each item in the menu data
-
-
-        # @TODO: If the item value in our sales data is equal to the any of the items in the menu, then begin tracking metrics for that item
-
-
-            # @TODO: Print out matching menu data
-
-
-
-
-
-
-            # @TODO: Cumulatively add up the metrics for each item key
-
-
-
-
-
-        # @TODO: Else, the sales item does not equal any fo the item in the menu data, therefore no match
-
-
-
-    # @TODO: Increment the row counter by 1
-
-
-# @TODO: Print total number of records in sales data
-
-
-
-
-# @TODO: Write out report to a text file (won't appear on the command line output)
+  
